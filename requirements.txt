@@ -1,1 +1,8 @@
+pandas
+numpy
+seaborn
+matplotlib
+nltk
+scikit-learn
+wordcloud
 
